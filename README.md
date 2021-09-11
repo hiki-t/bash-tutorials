@@ -1,7 +1,7 @@
-# Bash-tutorials
+# Bash Tutorials
 a collection of bash-tutorials
 
-## a list of bash tutorial sites
+## A list of bash tutorial sites
 
 I mainly recommend learning from 
 - LinkedIn online courses (www.linkedin.com/learning-login) or 
