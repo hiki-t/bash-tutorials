@@ -31,7 +31,7 @@ Secondary
 - [BASH Programming - Introduction HOW-TO](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 - [Bash Scripting Tutorial - Ryans Tutorials](https://ryanstutorials.net/bash-scripting-tutorial/)
 - [Understanding Bash: Elements of Programming \| Linux Journal](https://www.linuxjournal.com/content/understanding-bash-elements-programming)
-- [Bash scripting cheatsheet](https://devhints.io/bash
+- [Bash scripting cheatsheet](https://devhints.io/bash)
 - [How to program with Bash: Syntax and tools \| Opensource.com](https://opensource.com/article/19/10/programming-bash-syntax-tools)
 - [Shell programming with bash: by example, by counter-example](https://matt.might.net/articles/bash-by-example/)
 - [Bash Scripting Tutorial for Beginners - Linux Tutorials - Learn Linux Configuration](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
