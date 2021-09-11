@@ -4,7 +4,7 @@ a collection of bash-tutorials
 ## A list of bash tutorial sites
 
 I mainly recommend learning from 
-- LinkedIn online courses (www.linkedin.com/learning-login) or 
+- LinkedIn online courses (www.linkedin.com/learning-login)
 - Coursera online courses
 - gnu manual page [(Bash Reference Manual)](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)(LINK2)[https://www.gnu.org/software/bash/manual/bash.html]
 
