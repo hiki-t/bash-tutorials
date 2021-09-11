@@ -1,4 +1,4 @@
-# bash-tutorials
+# Bash-tutorials
 a collection of bash-tutorials
 
 ## a list of bash tutorial sites
