@@ -21,7 +21,7 @@ Learning how to use regular expressions (Regex)
 
 ## Where to practice bash exercises
 
-- [It's FOSS guide](https://itsfoss.com/shell-scripting-resources/)
+- [A collection of sources - by It's FOSS](https://itsfoss.com/shell-scripting-resources/)
 - [A lot of exercises - HackerRank](https://www.hackerrank.com/domains/shell)
 - [19 exercises - medium](https://medium.com/@sankad_19852/shell-scripting-exercises-5eb7220c2252)
 - [89 exercises - exercism.org](https://exercism.org/tracks/bash)
