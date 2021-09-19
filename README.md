@@ -19,7 +19,19 @@ Learning how to use text editor (nano, vi(m), atom)
 Learning how to use regular expressions (Regex)
 - LinkedIn online courses
 
+## Where to practice bash exercises
+
+- [It's FOSS guide](https://itsfoss.com/shell-scripting-resources/)
+- [A lot of exercises - HackerRank](https://www.hackerrank.com/domains/shell)
+- [19 exercises - medium](https://medium.com/@sankad_19852/shell-scripting-exercises-5eb7220c2252)
+- [89 exercises - exercism.org](https://exercism.org/tracks/bash)
+
+advanced?
+- https://tldp.org/LDP/abs/html/exercises.html
+
 ## Other sites I found so far
+
+### bash tutorials
 
 Looks quite nice
 - [Bash - GNU Project - Free Software Foundation](https://www.gnu.org/software/bash/)
@@ -38,7 +50,20 @@ Secondary
 - [30 Bash Script Examples](https://linuxhint.com/30_bash_script_examples/)
 - [How to program with Bash: Syntax and tools \| Opensource.com](https://opensource.com/article/19/10/programming-bash-syntax-tools)
 
-Books
+### exercises
+
+- https://ecs-network.serv.pacific.edu/past-courses/fall-2018-ecpe-170/lab/bash-scripting-exercise
+- https://www.linuxtopia.org/online_books/bash_guide_for_beginners/sect_01_07.html
+- http://parallel.vub.ac.be/documentation/linux/unixdoc_download/exercises/Scripts.Ex.html
+- http://www-h.eng.cam.ac.uk/help/tpl/unix/scripts/node16.html
+- https://dccn-hpc-wiki.readthedocs.io/en/latest/docs/bash/exercise_programming.html
+- [19 exercises - innolitics.com](https://innolitics.com/articles/advanced-bash-exercises/)
+- https://www.quora.com/What-are-some-resources-for-shell-scripting-exercises
+- http://pages.stat.wisc.edu/~jgillett/605/linux/linuxExercises.pdf
+- https://www.unix.com/unix-for-beginners-questions-and-answers/284054-exercise-bash.html
+- https://people.duke.edu/~ccc14/duke-hts-2018/cliburn/Bash_Exercise_1_Solutions.html
+
+### Books  
 
 To be continued...
 
