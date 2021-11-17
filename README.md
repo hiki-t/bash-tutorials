@@ -41,8 +41,6 @@ Wikibooks
 ### bash tutorials
 
 - [A collection of sources - by It's FOSS](https://itsfoss.com/shell-scripting-resources/)
-- [A lot of exercises - HackerRank](https://www.hackerrank.com/domains/shell)
-- [89 exercises - exercism.org](https://exercism.org/tracks/bash)
 - [Bash Tutorial \| Bash Scripting Tutorial - Javatpoint](https://www.javatpoint.com/bash)
 - [BASH Programming - Introduction HOW-TO](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 - [Bash Scripting Tutorial - Ryans Tutorials](https://ryanstutorials.net/bash-scripting-tutorial/)
@@ -56,6 +54,8 @@ Wikibooks
 
 ### exercises
 
+- [A lot of exercises - HackerRank](https://www.hackerrank.com/domains/shell)
+- [89 exercises - exercism.org](https://exercism.org/tracks/bash)
 - https://ecs-network.serv.pacific.edu/past-courses/fall-2018-ecpe-170/lab/bash-scripting-exercise
 - https://www.linuxtopia.org/online_books/bash_guide_for_beginners/sect_01_07.html
 - http://parallel.vub.ac.be/documentation/linux/unixdoc_download/exercises/Scripts.Ex.html
