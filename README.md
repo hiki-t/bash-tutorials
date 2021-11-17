@@ -26,10 +26,13 @@ TLDP
 - https://tldp.org/LDP/abs/html/
 - https://tldp.org/guides.html
 - https://tldp.org/LDP/abs/html/exercises.html
+
 GNU
 - https://www.gnu.org/software/bash/
+
 Redhat
 - https://www.redhat.com/sysadmin/bash-scripting-loops
+
 Wikibooks
 - https://en.wikibooks.org/wiki/Bash_Shell_Scripting
 
