@@ -22,25 +22,24 @@ Learning how to use regular expressions (Regex)
 
 ## Where to practice bash exercises
 
-- [A collection of sources - by It's FOSS](https://itsfoss.com/shell-scripting-resources/)
-- [A lot of exercises - HackerRank](https://www.hackerrank.com/domains/shell)
-- [89 exercises - exercism.org](https://exercism.org/tracks/bash)
-
-advanced?
+TLDP
+- https://tldp.org/LDP/abs/html/
 - https://tldp.org/guides.html
 - https://tldp.org/LDP/abs/html/exercises.html
+GNU
+- https://www.gnu.org/software/bash/
+Redhat
+- https://www.redhat.com/sysadmin/bash-scripting-loops
+Wikibooks
+- https://en.wikibooks.org/wiki/Bash_Shell_Scripting
 
 ## Other sites I found so far
 
 ### bash tutorials
 
-Looks quite nice
-- [Bash - GNU Project - Free Software Foundation](https://www.gnu.org/software/bash/)
-- [Introduction to Linux Bash programming: 5 `for` loop tips \| Enable Sysadmin](https://www.redhat.com/sysadmin/bash-scripting-loops)
-- [Bash Shell Scripting - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
-- [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
-
-Secondary
+- [A collection of sources - by It's FOSS](https://itsfoss.com/shell-scripting-resources/)
+- [A lot of exercises - HackerRank](https://www.hackerrank.com/domains/shell)
+- [89 exercises - exercism.org](https://exercism.org/tracks/bash)
 - [Bash Tutorial \| Bash Scripting Tutorial - Javatpoint](https://www.javatpoint.com/bash)
 - [BASH Programming - Introduction HOW-TO](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 - [Bash Scripting Tutorial - Ryans Tutorials](https://ryanstutorials.net/bash-scripting-tutorial/)
