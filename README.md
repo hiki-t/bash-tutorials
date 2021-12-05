@@ -20,6 +20,33 @@ Learning how to use text editor (nano, vi(m), atom, vscode)
 Learning how to use regular expressions (Regex)
 - LinkedIn online courses
 
+## A list of top bash command tutorials
+
+A list
+
+1. [Bash cheat sheet: Top 25 commands and creating custom commands](https://www.educative.io/blog/bash-shell-command-cheat-sheet)
+1. [top command in Linux with Examples - GeeksforGeeks](https://www.geeksforgeeks.org/top-command-in-linux-with-examples/)
+1. [Linux Bash Commands: 101 Bash Commands and Tips for Beginners to Experts - DEV Community](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je)
+1. [Bash cheat sheet: Top 28 commands for you to learn 🤺 - DEV Community](https://dev.to/ankit01oss/bash-cheat-sheet-top-28-commands-for-you-to-learn-15ee)
+1. [Top 10 Bash file system commands you can’t live without \| Hacker Noon](https://hackernoon.com/top-10-bash-file-system-commands-you-cant-live-without-4cd937bd7df1)
+1. [16 Top Command Examples in Linux [Monitor Linux Processes]](https://www.tecmint.com/12-top-command-examples-in-linux/)
+1. [Top 25 Linux Commands](https://linuxhint.com/top-25-linux-commands/)
+1. [16 Must-Know Bash Commands for Data Scientists \| by Giorgos Myrianthous | Towards Data Science](https://towardsdatascience.com/16-must-know-bash-commands-for-data-scientists-d8263e990e0e)
+
+Frequently used bash commands
+
+- pwd, ls, cd, mkdir/rmdir, touch, cat, uname, head/tail, cp, mv, less/more, find/locate, which, grep, echo, sudo, chmod, man/--help, apt/apt-get, sort, wc
+- wget, iptables, traceroute, cURL
+- vi/vim, nano, jed, atom
+- clear, exit, cut, jobs, ping, top, sed, lsblk, mount, df, du, ps, kill, service, batch, shutdown, comm, ln, cmp, dd, alias, chown, whoami, whatis, cal, fortune, history, yes, banner, rev, htop, tar, zip, unzip, passwd, shred, neofetch, hostname, useradd, userdel
+
+- [Basic Bash Shell Commands - A CLI Tutorial - Liquid Web](https://www.liquidweb.com/kb/basic-bash-shell-commands-a-cli-tutorial/)
+- [34 Linux Basic Commands Every User Should Know (Cheat Sheet)](https://www.hostinger.co.uk/tutorials/linux-commands)
+- [Basic Linux Commands for Beginners \| Linux | Maker Pro](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
+- [Basic Shell Commands in Linux - GeeksforGeeks](https://www.geeksforgeeks.org/basic-shell-commands-in-linux/)
+- [The 40 Most-Used Linux Commands You Should Know](https://kinsta.com/blog/linux-commands/)
+- [The 50 Most Useful Linux Commands To Run in the Terminal](https://www.ubuntupit.com/best-linux-commands-to-run-in-the-terminal/)
+
 ## Where to practice bash exercises
 
 TLDP
