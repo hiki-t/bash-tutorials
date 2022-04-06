@@ -20,6 +20,15 @@ Learning how to use text editor (nano, vi(m), atom, vscode)
 Learning how to use regular expressions (Regex)
 - LinkedIn online courses
 
+Learning how to use parameter expansion
+- https://wiki.bash-hackers.org/syntax/pe
+
+Learning how to use grep, searching strings and patterns
+- https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/
+- https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_04_02.html
+- https://man7.org/linux/man-pages/man1/grep.1.html
+
+
 ## A list of top bash command tutorials
 
 A list
