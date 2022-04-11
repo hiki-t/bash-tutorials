@@ -3,8 +3,6 @@
 <br/>
 <br/>
 
----
-
 Exercises
 - [easy](#easy)
 - [medium](#medium)
@@ -12,9 +10,6 @@ Exercises
 - [more #1]()
 - [more #2]()
 - [more #3]()
-
----
-
 
 <br/>
 <br/>
