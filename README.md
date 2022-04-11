@@ -24,7 +24,7 @@ Learning how to use parameter expansion
 - https://wiki.bash-hackers.org/syntax/pe
 
 Learning how to use grep, searching strings and patterns
-- man reference [man7.org](https://man7.org/linux/man-pages/man1/grep.1.html" target="_blank)
+- man grep reference [@man7.org](https://man7.org/linux/man-pages/man1/grep.1.html)
 - easy exercise [@ostenchnix.com](https://ostechnix.com/the-grep-command-tutorial-with-examples-for-beginners/)
 - medium exercise [@hackerrank.com](https://www.hackerrank.com/contests/bash-and-linux-shell-practice/challenges/text-processing-in-linux-the-grep-command-2)
 - hard exercise [@tldp.org](https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_04_02.html)
