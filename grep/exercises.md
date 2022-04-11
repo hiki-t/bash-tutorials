@@ -37,7 +37,7 @@ two ways
 <br/>
 <br/>
 
-### sample #1 - easy <a name="easy"></a>
+### Exercises - easy <a name="easy"></a>
 
 ```
 $ cat file.txt
@@ -111,7 +111,7 @@ File and Directory Selection
 
 ````
 
-### sample #2 - medium <a name="medium"></a>
+### Exercises - medium <a name="medium"></a>
 
 - https://www.hackerrank.com/contests/bash-and-linux-shell-practice/challenges/text-processing-in-linux-the-grep-command-2
 
