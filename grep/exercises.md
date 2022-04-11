@@ -190,9 +190,6 @@ cat sample.txt | grep -inw the
 
 more practical exercises
 
-<br/>
-<br/>
-
 ### More resources - more1 <a name="more1"></a>
 
 ```console
