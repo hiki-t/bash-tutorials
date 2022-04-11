@@ -30,6 +30,12 @@ Learning how to use grep, searching strings and patterns
 - https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/
 - 
 
+For Jekyll
+[text-to-highlight](actual-link){:target="\_blank"}
+
+For others
+<a href="http://example.com/" target="_blank">Hello, world!</a>
+
 ## A list of top bash command tutorials
 
 A list
