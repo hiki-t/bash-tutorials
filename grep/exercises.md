@@ -7,6 +7,9 @@ Exercises
 - [easy](#easy)
 - [medium](#medium)
 - [hard](#hard)
+- [more #1]()
+- [more #2]()
+- [more #3]()
 
 <br/>
 <br/>
@@ -70,8 +73,97 @@ technology
 <br/>
 <br/>
 
+```
+### option
+grep -i # case-sensitive
+grep -c # count a number of matching lines
+grep -n # show line number
+grep -w # find characters as an entire word, not characters within a word
+grep -v # what's invert???   Invert the sense of matching, to select non-matching lines.
+grep -f # file?
+grep -e # ERE?
+
+````
+
 ### sample #2 - medium <a name="medium"></a>
 
+- https://www.hackerrank.com/contests/bash-and-linux-shell-practice/challenges/text-processing-in-linux-the-grep-command-2
+
+Task  
+You are given a text file that will be piped into your command through STDIN. Use grep to display all those lines that contain the word the in them.
+The search should NOT be sensitive to case.  
+Display only those lines of the input file that contain the word 'the'.  
+
+```
+$ cat file.txt
+From fairest creatures we desire increase,
+That thereby beauty's rose might never die,
+But as the riper should by time decease,
+His tender heir might bear his memory:
+But thou contracted to thine own bright eyes,
+Feed'st thy light's flame with self-substantial fuel,
+Making a famine where abundance lies,
+Thy self thy foe, to thy sweet self too cruel:
+Thou that art now the world's fresh ornament,
+And only herald to the gaudy spring,
+Within thine own bud buriest thy content,
+And tender churl mak'st waste in niggarding:
+Pity the world, or else this glutton be,
+To eat the world's due, by the grave and thee.
+When forty winters shall besiege thy brow,
+And dig deep trenches in thy beauty's field,
+Thy youth's proud livery so gazed on now,
+Will be a tattered weed of small worth held:
+Then being asked, where all thy beauty lies,
+Where all the treasure of thy lusty days;
+To say within thine own deep sunken eyes,
+Were an all-eating shame, and thriftless praise.
+How much more praise deserved thy beauty's use,
+If thou couldst answer 'This fair child of mine
+Shall sum my count, and make my old excuse'
+```
+
+```console
+
+cat sample.txt | grep -in or   # find any words which contain 'or'
+4:His tender heir might bear his memory:
+9:Thou that art now the world's fresh ornament,
+13:Pity the world, or else this glutton be,
+14:To eat the world's due, by the grave and thee.
+15:When forty winters shall besiege thy brow,
+18:Will be a tattered weed of small worth held:
+23:How much more praise deserved thy beauty's use,
+
+cat sample.txt | grep -inw or   # find words which is same as 'or'
+13:Pity the world, or else this glutton be,
+
+
+
+
+
+# try to complete the above task
+
+cat sample.txt | grep -in the
+2:That thereby beauty's rose might never die,
+3:But as the riper should by time decease,
+9:Thou that art now the world's fresh ornament,
+10:And only herald to the gaudy spring,
+13:Pity the world, or else this glutton be,
+14:To eat the world's due, by the grave and thee.
+19:Then being asked, where all thy beauty lies,
+20:Where all the treasure of thy lusty days;
+
+cat sample.txt | grep -inw the
+3:But as the riper should by time decease,
+9:Thou that art now the world's fresh ornament,
+10:And only herald to the gaudy spring,
+13:Pity the world, or else this glutton be,
+14:To eat the world's due, by the grave and thee.
+20:Where all the treasure of thy lusty days;
+
+
+
+```
 
 
 
@@ -87,13 +179,3 @@ technology
 
 
 
-
-
-
-
-
-
-
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
