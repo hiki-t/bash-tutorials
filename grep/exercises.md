@@ -21,9 +21,6 @@ grep matching style
 - grep -G(basic-regexp, BRE)
 - grep -P(perl)
 
-### Easy
-- https://ostechnix.com/the-grep-command-tutorial-with-examples-for-beginners/
-
 SYNOPSIS
 - grep [OPTIONS] PATTERN [FILE...]
 - grep [OPTIONS] -e PATTERN ... [FILE...]
@@ -35,6 +32,9 @@ two ways
 
 <br/>
 <br/>
+
+### Easy
+- https://ostechnix.com/the-grep-command-tutorial-with-examples-for-beginners/
 
 ### Exercises - easy <a name="easy"></a>
 
