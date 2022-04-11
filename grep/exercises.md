@@ -3,6 +3,8 @@
 <br/>
 <br/>
 
+---
+
 Exercise outline
 - [easy](#easy)
 - [medium](#medium)
@@ -10,8 +12,12 @@ Exercise outline
 - [more #1](), eg ERE
 - [more #2](), eg regex
 
+---
+
 <br/>
 <br/>
+
+---
 
 ```
 grep matching style
@@ -30,6 +36,8 @@ two ways
 1. output or file | grep option pattern   # using pipe
 2. grep option pattern file   # use directly
 ```
+
+---
 
 ### Easy
 - https://ostechnix.com/the-grep-command-tutorial-with-examples-for-beginners/
@@ -105,6 +113,8 @@ File and Directory Selection
 
 ````
 
+---
+
 ### Exercises - medium <a name="medium"></a>
 
 - https://www.hackerrank.com/contests/bash-and-linux-shell-practice/challenges/text-processing-in-linux-the-grep-command-2
@@ -178,6 +188,8 @@ cat sample.txt | grep -inw the
 20:Where all the treasure of thy lusty days;
 
 ```
+
+---
 
 ### Exercises - hard <a name="hard"></a>
 
