@@ -147,6 +147,7 @@ If thou couldst answer 'This fair child of mine
 Shall sum my count, and make my old excuse'
 ```
 
+eg
 ```console
 
 cat sample.txt | grep -in or   # find any words which contain 'or'
