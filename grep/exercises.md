@@ -7,9 +7,8 @@ Exercise outline
 - [easy](#easy)
 - [medium](#medium)
 - [hard](#hard)
-- [more #1]()
-- [more #2]()
-- [more #3]()
+- [more #1](), eg ERE
+- [more #2](), eg regex
 
 <br/>
 <br/>
