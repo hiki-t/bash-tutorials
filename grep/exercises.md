@@ -3,21 +3,15 @@
 <br/>
 <br/>
 
----
-
-Exercise outline
+### Exercise outline
 - [easy](#easy)
 - [medium](#medium)
 - [hard](#hard)
 - [more #1](), eg ERE
 - [more #2](), eg regex
 
----
-
 <br/>
 <br/>
-
----
 
 ```
 grep matching style
@@ -36,8 +30,6 @@ two ways
 1. output or file | grep option pattern   # using pipe
 2. grep option pattern file   # use directly
 ```
-
----
 
 ### Easy
 - https://ostechnix.com/the-grep-command-tutorial-with-examples-for-beginners/
@@ -60,7 +52,7 @@ HELLO world
 eg
 
 ```console
-grep tech file.txt
+$ grep tech file.txt
 ostechnix
 Ostechnix
 o$technix
@@ -112,8 +104,6 @@ grep  -C num # ?
 File and Directory Selection
 
 ````
-
----
 
 ### Exercises - medium <a name="medium"></a>
 
@@ -188,8 +178,6 @@ cat sample.txt | grep -inw the
 20:Where all the treasure of thy lusty days;
 
 ```
-
----
 
 ### Exercises - hard <a name="hard"></a>
 
