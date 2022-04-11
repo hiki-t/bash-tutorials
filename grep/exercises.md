@@ -75,13 +75,39 @@ technology
 
 ```
 ### option
-grep -i # case-sensitive
-grep -c # count a number of matching lines
-grep -n # show line number
-grep -w # find characters as an entire word, not characters within a word
-grep -v # what's invert???   Invert the sense of matching, to select non-matching lines.
-grep -f # file?
-grep -e # ERE?
+
+# Matching Control
+(******) is probably used most of time
+
+grep -i # case-sensitive (******)
+grep -w # find characters as an entire word, not characters within a word (******)
+grep -v # exclude target characters (******)
+grep -f # file??? --------------------------------------------------------- to be checked
+grep -e # ERE??? ---------------------------------------------------------- to be checked
+
+# General Output Control
+grep -c # count a number of matching lines (******)
+grep -L # ?
+grep -l # ?
+grep -m num # stop searching after finding assigned "num"
+grep -o # only show searched characters # what's a point of doing this????
+
+# Output Line Prefix Control
+grep -n # show line number on the left (******)
+grep -b # distance from beginning of this file? # byte offset
+grep -u # unix offset, but there is no output
+grep -H # ?
+grep -h # ?
+grep --label # output as " grep: xxx: Is a directory " if it's a dir
+grep -T # Make sure that the first character of actual line content lies on a tab stop
+grep -z # Output a zero byte
+
+Context Line Control
+grep  -B num # show lines before a line with target characters (******)
+grep  -A num # show lines after a line with taraget characters (******)
+grep  -C num # ?
+
+File and Directory Selection
 
 ````
 
@@ -160,8 +186,6 @@ cat sample.txt | grep -inw the
 13:Pity the world, or else this glutton be,
 14:To eat the world's due, by the grave and thee.
 20:Where all the treasure of thy lusty days;
-
-
 
 ```
 
