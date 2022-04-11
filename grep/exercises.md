@@ -14,6 +14,7 @@ Exercises
 <br/>
 <br/>
 
+```
 grep matching style
 - egrep = grep -E   # extended-regexp (ERE)
 - fgrep = grep -F   # fast ,,, ignore special characters as strings
@@ -29,6 +30,7 @@ SYNOPSIS
 two ways
 1. output or file | grep option pattern   # using pipe
 2. grep option pattern file   # use directly
+```
 
 <br/>
 <br/>
