@@ -31,9 +31,6 @@ two ways
 2. grep option pattern file   # use directly
 ```
 
-<br/>
-<br/>
-
 ### Easy
 - https://ostechnix.com/the-grep-command-tutorial-with-examples-for-beginners/
 
