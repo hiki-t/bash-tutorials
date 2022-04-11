@@ -31,42 +31,6 @@ two ways
 2. grep option pattern file   # use directly
 ```
 
-### Easy
-- https://ostechnix.com/the-grep-command-tutorial-with-examples-for-beginners/
-
-### Exercises - easy <a name="easy"></a>
-
-```
-$ cat file.txt
-ostechnix
-Ostechnix
-o$technix
-linux
-linus
-unix
-technology
-hello world
-HELLO world
-```
-
-eg
-
-```console
-$ grep tech file.txt
-ostechnix
-Ostechnix
-o$technix
-technology
-
-$ grep ^tech file.txt
-technology
-
-# memo
-# ^ only works from the beginning of the line, not middle of the line
-# same applies for $
-# when searching for any x character within a word, use .n for example
-```
-
 ```
 ### option
 
@@ -104,6 +68,42 @@ grep  -C num # ?
 File and Directory Selection
 
 ````
+
+### Easy
+- https://ostechnix.com/the-grep-command-tutorial-with-examples-for-beginners/
+
+### Exercises - easy <a name="easy"></a>
+
+```
+$ cat file.txt
+ostechnix
+Ostechnix
+o$technix
+linux
+linus
+unix
+technology
+hello world
+HELLO world
+```
+
+eg
+
+```console
+$ grep tech file.txt
+ostechnix
+Ostechnix
+o$technix
+technology
+
+$ grep ^tech file.txt
+technology
+
+# memo
+# ^ only works from the beginning of the line, not middle of the line
+# same applies for $
+# when searching for any x character within a word, use .n for example
+```
 
 ### Exercises - medium <a name="medium"></a>
 
