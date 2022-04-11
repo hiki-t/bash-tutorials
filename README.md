@@ -24,10 +24,10 @@ Learning how to use parameter expansion
 - https://wiki.bash-hackers.org/syntax/pe
 
 Learning how to use grep, searching strings and patterns
+- <a href="https://man7.org/linux/man-pages/man1/grep.1.html" target="_blank">man7</a>
+- <a href="https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_04_02.html" target="_blank">tldp</a>
 - https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/
-- https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_04_02.html
-- https://man7.org/linux/man-pages/man1/grep.1.html
-
+- 
 
 ## A list of top bash command tutorials
 
