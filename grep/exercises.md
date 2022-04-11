@@ -20,12 +20,16 @@ grep matching style
 - rgrep = grep -r   # recursive
 - grep -G(basic-regexp, BRE)
 - grep -P(perl)
+```
 
+```
 SYNOPSIS
 - grep [OPTIONS] PATTERN [FILE...]
 - grep [OPTIONS] -e PATTERN ... [FILE...]
 - grep [OPTIONS] -f FILE ... [FILE...]
+```
 
+```
 two ways
 1. output or file | grep option pattern   # using pipe
 2. grep option pattern file   # use directly
