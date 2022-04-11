@@ -78,7 +78,7 @@ technology
 ### option
 
 # Matching Control
-(******) is probably used most of time
+# (******) is probably used most of time
 
 grep -i # case-sensitive (******)
 grep -w # find characters as an entire word, not characters within a word (******)
