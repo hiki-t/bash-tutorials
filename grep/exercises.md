@@ -1,10 +1,15 @@
 # grep exercises
 
-outline
-- [exercise - easy](#easy)
-- [exercise - medium](#medium)
-- [exercise - hard](#hard)
+<br/>
+<br/>
 
+Exercises
+- [easy](#easy)
+- [medium](#medium)
+- [hard](#hard)
+
+<br/>
+<br/>
 
 grep matching style
 - egrep = grep -E   # extended-regexp (ERE)
