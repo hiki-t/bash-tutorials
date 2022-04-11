@@ -16,7 +16,7 @@ Exercises
 
 grep matching style
 - egrep = grep -E   # extended-regexp (ERE)
-- fgrep = grep -F   # fast ignore special characters
+- fgrep = grep -F   # fast ,,, ignore special characters as strings
 - rgrep = grep -r   # recursive
 - 
 - grep -G(basic-regexp, BRE)
