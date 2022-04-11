@@ -7,8 +7,8 @@
 - [easy](#easy)
 - [medium](#medium)
 - [hard](#hard)
-- [more #1](), eg ERE
-- [more #2](), eg regex
+- [more #1](#more1), eg ERE
+- [more #2](#more2), eg regex
 
 <br/>
 <br/>
