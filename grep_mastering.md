@@ -1,4 +1,8 @@
-# test
+# Mastering grep
+
+```
+$ man grep
+```
 
 ```console
 
