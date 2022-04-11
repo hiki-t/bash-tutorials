@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-Exercises
+Exercises outline
 - [easy](#easy)
 - [medium](#medium)
 - [hard](#hard)
