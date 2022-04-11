@@ -67,9 +67,6 @@ technology
 # when searching for any x character within a word, use .n for example
 ```
 
-<br/>
-<br/>
-
 ```
 ### option
 
@@ -160,10 +157,6 @@ cat sample.txt | grep -in or   # find any words which contain 'or'
 cat sample.txt | grep -inw or   # find words which is same as 'or'
 13:Pity the world, or else this glutton be,
 
-
-
-
-
 # try to complete the above task
 
 cat sample.txt | grep -in the
@@ -186,21 +179,8 @@ cat sample.txt | grep -inw the
 
 ```
 
-<br/>
-<br/>
-
 ### Exercises - hard <a name="hard"></a>
 
 - https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_04_02.html
 
 more practical exercises
-
-
-
-
-
-
-
-
-
-
