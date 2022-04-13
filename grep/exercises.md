@@ -7,8 +7,8 @@
 - [easy](#easy)
 - [medium](#medium)
 - [hard](#hard)
-- [more #1](#more1), eg ERE
-- [more #2](#more2), eg regex
+- [more #1](#more1), eg BRE vs ERE
+- [more #2](#more2), eg links to regex exercises, info
 
 <br/>
 <br/>
@@ -18,7 +18,7 @@ grep matching style
 - egrep = grep -E   # extended-regexp (ERE)
 - fgrep = grep -F   # fast ,,, ignore special characters as strings
 - rgrep = grep -r   # recursive
-- grep -G(basic-regexp, BRE)
+- grep -G(basic-regexp, BRE, default)
 - grep -P(perl)
 ```
 
@@ -44,8 +44,8 @@ two ways
 grep -i # case-sensitive (******)
 grep -w # find characters as an entire word, not characters within a word (******)
 grep -v # exclude target characters (******)
-grep -f # file??? --------------------------------------------------------- to be checked
-grep -e # ERE??? ---------------------------------------------------------- to be checked
+grep -f # obtain PATTERN from FILE
+grep -e # use PATTERN for matching, what is a point to use this compared to default?
 
 # General Output Control
 grep -c # count a number of matching lines (******)
@@ -284,16 +284,12 @@ REGULAR EXPRESSIONS
 ```
 
 ### More resources #2 <a name="more2"></a>
-- https://regexcrossword.com/ # Regex Cross­word
+- https://regexcrossword.com/ # Regex Cross word
 - https://www.regular-expressions.info/index.html # Regex exercises
 - https://regexr.com/ # regex online tool #1
 - https://www.regexpal.com/ # regex online tool #2
 - https://rubular.com/ # regex online tool #3
 - https://www.online-utility.org/text/grep.jsp # regex online tool #4
 
-
-
-
-
-
-
+### Memo
+- https://unix.stackexchange.com/questions/531591/grep-and-grep-f-differences (about basic regular expressions)
