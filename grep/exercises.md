@@ -31,8 +31,8 @@ SYNOPSIS
 
 ```
 two ways
-1. output or file | grep option pattern   # using pipe
-2. grep option pattern file   # use directly
+1. [output or file] | grep [option] [pattern]   # use a pipe
+2. grep [option] [pattern] [file]   # use directly
 ```
 
 ```
