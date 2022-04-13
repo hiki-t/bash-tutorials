@@ -87,6 +87,8 @@ etc
 
 ---
 
+<br/>
+
 ### Easy
 - https://ostechnix.com/the-grep-command-tutorial-with-examples-for-beginners/
 
@@ -126,6 +128,8 @@ technology
 <br/>
 
 ---
+
+<br/>
 
 ### Exercises - medium <a name="medium"></a>
 
