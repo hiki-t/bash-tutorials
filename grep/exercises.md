@@ -83,6 +83,10 @@ etc
 
 ````
 
+<br/>
+
+---
+
 ### Easy
 - https://ostechnix.com/the-grep-command-tutorial-with-examples-for-beginners/
 
@@ -118,6 +122,10 @@ technology
 # same applies for $
 # when searching for any x character within a word, use .n for example
 ```
+
+<br/>
+
+---
 
 ### Exercises - medium <a name="medium"></a>
 
