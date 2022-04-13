@@ -59,7 +59,7 @@ grep -e # disambiguate against special characters, such as -foo, h|l|o, etc (***
 # General Output Control
 grep -c # count a number of matching lines (******)
 grep -L # print only names of FILEs with no PATTERN # like -v of file search
-grep -l # print only names of FILEs with PATTERN (******)
+grep -l # print only names of FILEs with PATTERN # show file names which contain the pattern?
 grep -m num # stop searching after finding assigned "num"
 grep -o # only show searched characters # prob useful when using variable as PATTERN (***maybe)
 
