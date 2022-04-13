@@ -206,6 +206,12 @@ cat sample.txt | grep -inw the
 
 ```
 
+<br/>
+
+---
+
+<br/>
+
 ### Exercises - hard <a name="hard"></a>
 
 - https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_04_02.html
