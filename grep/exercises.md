@@ -200,7 +200,7 @@ cat sample.txt | grep -inw the
 
 more practical exercises
 
-### More resources - more1 <a name="more1"></a>
+### More resources #1 - BRE vs ERE <a name="more1"></a>
 
 ```console
 
@@ -293,7 +293,7 @@ REGULAR EXPRESSIONS
 
 ```
 
-### More resources #2 <a name="more2"></a>
+### More resources #2 - links for regex <a name="more2"></a>
 - https://regexcrossword.com/ # Regex Cross word
 - https://www.regular-expressions.info/index.html # Regex exercises
 - https://regexr.com/ # regex online tool #1
