@@ -33,6 +33,15 @@ SYNOPSIS
 two ways
 1. [output or file] | grep [option] pattern [file]   # use a pipe
 2. grep [option] pattern [file]   # use directly
+
+
+eg
+cat file.txt
+hello
+
+1. cat or ls | grep -i he
+2. eg, grep -i he file.txt
+
 ```
 
 ```
