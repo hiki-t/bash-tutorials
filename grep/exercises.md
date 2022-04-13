@@ -45,7 +45,7 @@ grep -i # case-sensitive (******)
 grep -w # find characters as an entire word, not characters within a word (******)
 grep -v # exclude target characters (******)
 grep -f # obtain PATTERN from FILE
-grep -e # use PATTERN for matching, what is a point to use this compared to default?
+grep -e # disambiguate against special characters, such as -foo, h|l|o, etc
 
 # General Output Control
 grep -c # count a number of matching lines (******)
@@ -293,3 +293,5 @@ REGULAR EXPRESSIONS
 
 ### Memo
 - https://unix.stackexchange.com/questions/531591/grep-and-grep-f-differences (about basic regular expressions)
+- https://unix.stackexchange.com/questions/50512/what-is-the-difference-between-grep-e-and-grep-e-option (about basic vs extended expressions, also The purpose of -e is really just to disambiguate when a regex starts with a dash)
+- https://unix.stackexchange.com/questions/435412/e-option-in-command-grep (some explanations about grep -e)
