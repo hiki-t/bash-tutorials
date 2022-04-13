@@ -39,7 +39,7 @@ eg
 cat file.txt
 hello
 
-1. cat or ls | grep -i he
+1. cat file.txt | grep -i he
 2. eg, grep -i he file.txt
 
 ```
