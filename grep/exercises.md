@@ -61,7 +61,7 @@ grep -c # count a number of matching lines (******)
 grep -L # ?
 grep -l # ?
 grep -m num # stop searching after finding assigned "num"
-grep -o # only show searched characters # what's a point of doing this????
+grep -o # only show searched characters # prob useful when using variable as PATTERN
 
 # Output Line Prefix Control
 grep -n # show line number on the left (******)
