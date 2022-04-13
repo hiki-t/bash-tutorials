@@ -58,8 +58,8 @@ grep -e # disambiguate against special characters, such as -foo, h|l|o, etc (***
 
 # General Output Control
 grep -c # count a number of matching lines (******)
-grep -L # ?
-grep -l # ?
+grep -L # print only names of FILEs with no PATTERN # like -v of file search
+grep -l # print only names of FILEs with PATTERN (******)
 grep -m num # stop searching after finding assigned "num"
 grep -o # only show searched characters # prob useful when using variable as PATTERN (***maybe)
 
@@ -67,8 +67,8 @@ grep -o # only show searched characters # prob useful when using variable as PAT
 grep -n # show line number on the left (******)
 grep -b # distance from beginning of this file? # byte offset
 grep -u # unix offset, but there is no output
-grep -H # ?
-grep -h # ?
+grep -H # show file name in front with output lines
+grep -h # suppress the file name prefix on output
 grep --label # output as " grep: xxx: Is a directory " if it's a dir
 grep -T # Make sure that the first character of actual line content lies on a tab stop
 grep -z # Output a zero byte
@@ -305,8 +305,8 @@ REGULAR EXPRESSIONS
 <br/>
 <br/>
 
-Memo[^1][^2][^3]
+Memo[^1][^2][^3][^4]
 [^1]: https://unix.stackexchange.com/questions/531591/grep-and-grep-f-differences (about basic regular expressions)
 [^2]: https://unix.stackexchange.com/questions/50512/what-is-the-difference-between-grep-e-and-grep-e-option (about basic vs extended expressions, also The purpose of -e is really just to disambiguate when a regex starts with a dash)
 [^3]: https://unix.stackexchange.com/questions/435412/e-option-in-command-grep (some explanations about grep -e)
-
+[^4]: https://unix.stackexchange.com/questions/339619/is-grep-v-l-equivalent-to-grep-l (diff btw -vl and -L)
