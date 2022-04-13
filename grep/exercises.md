@@ -76,7 +76,7 @@ grep -z # Output a zero byte
 # Context Line Control
 grep  -B num # show lines before a line with target characters (******)
 grep  -A num # show lines after a line with taraget characters (******)
-grep  -C num # ?
+grep  -C num # show lines before and after a line with taraget characters (******)
 
 # File and Directory Selection
 etc
