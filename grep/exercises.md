@@ -215,6 +215,7 @@ cat sample.txt | grep -inw the
 ### Exercises - hard <a name="hard"></a>
 
 - https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_04_02.html
+- https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/
 
 more practical exercises
 
