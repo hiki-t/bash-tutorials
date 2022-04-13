@@ -31,8 +31,8 @@ SYNOPSIS
 
 ```
 two ways
-1. [output or file] | grep [option] [pattern]   # use a pipe
-2. grep [option] [pattern] [file]   # use directly
+1. [output or file] | grep [option] pattern [file]   # use a pipe
+2. grep [option] pattern [file]   # use directly
 ```
 
 ```
@@ -44,8 +44,8 @@ two ways
 grep -i # case-sensitive (******)
 grep -w # find characters as an entire word, not characters within a word (******)
 grep -v # exclude target characters (******)
-grep -f # obtain PATTERN from FILE
-grep -e # disambiguate against special characters, such as -foo, h|l|o, etc
+grep -f # obtain PATTERN from FILE (***maybe)
+grep -e # disambiguate against special characters, such as -foo, h|l|o, etc (***maybe)
 
 # General Output Control
 grep -c # count a number of matching lines (******)
@@ -70,6 +70,7 @@ grep  -A num # show lines after a line with taraget characters (******)
 grep  -C num # ?
 
 # File and Directory Selection
+etc
 
 ````
 
