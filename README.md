@@ -29,7 +29,7 @@ Learning how to use grep, searching strings and patterns
 - https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/
 - 
 
-Expanding (using) variables [Source](https://wiki.bash-hackers.org/scripting/newbie_traps#expanding_using_variables)
+Expanding (using) variables [Source](https://wiki.bash-hackers.org/scripting/newbie_traps#expanding_using_variables)  
 eg
 ```console
 $ example="Hello world" # assign var
