@@ -29,6 +29,27 @@ Learning how to use grep, searching strings and patterns
 - https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/
 - 
 
+Expanding (using) variables [Source](https://wiki.bash-hackers.org/scripting/newbie_traps#expanding_using_variables)
+eg
+```console
+$ example="Hello world" # assign var
+
+$ echo $example # current standard, 2022
+Hello world
+
+$ echo "$example" # old fashion
+Hello world
+
+$ echo '$example' # single quote, just show everything as simple text
+$example
+
+$ echo '\$example' # single quote
+\$example
+
+$ echo "\$example" # double quote, so escaping $ can be done
+$example
+```
+
 ## A list of top bash command tutorials
 
 A list
