@@ -17,6 +17,12 @@ Learning how to use text editor (nano, vi(m), atom, vscode)
 
 Learning how to use regular expressions (Regex)
 - LinkedIn online courses
+- Basic (BRE) and extended (ERE) regualr expressions
+- Sources
+  - https://www.regular-expressions.info/index.html
+  - https://www.cyberciti.biz/faq/grep-regular-expressions/
+  - https://www.regextutorial.org/regex-for-numbers-and-ranges.php
+  - https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux
 
 Learning how to use parameter expansion
 - https://wiki.bash-hackers.org/syntax/pe
